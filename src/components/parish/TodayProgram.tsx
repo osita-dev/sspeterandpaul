@@ -1,4 +1,4 @@
-import { Clock, MapPin, Users } from "lucide-react";
+import { MapPin} from "lucide-react";
 
 const todayEvents = [
   { time: "6:30 AM", title: "Morning Mass", location: "Main Church", isNow: true },

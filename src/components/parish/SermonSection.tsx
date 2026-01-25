@@ -20,7 +20,7 @@ const latestSermon = {
 
 export function SermonSection() {
   const [isPlaying, setIsPlaying] = useState(false);
-  const [progress, setProgress] = useState(35);
+  const [progress] = useState(35);
 
   return (
     <section id="sermons" className="py-16 bg-white">

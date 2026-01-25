@@ -1,4 +1,4 @@
-import { Megaphone, Clock, ChevronRight, AlertCircle, Star, Calendar } from "lucide-react";
+import { Megaphone, Clock, ChevronRight,Star, Calendar } from "lucide-react";
 
 const announcements = [
   {
